@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestAppJava</string>
+    <string name="price">Price</string>
+    <string name="marker_cap">Marker cap</string>
+    <string name="value_24H">24H</string>
+    <string name="cryptocurrency">CRYPTOCURRENCY</string>
+</resources>
